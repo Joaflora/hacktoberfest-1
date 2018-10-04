@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Notepad
+// AUTHOR: Joana Castelló Visiedo
+// GITHUB: https://github.com/Joaflora
+
+console.log("Hello World") 
