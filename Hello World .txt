@@ -1,0 +1,11 @@
+// LANGUAGE: Java
+// ENV: Notepad
+// AUTHOR: Joana Castelló Visiedo
+// GITHUB: https://github.com/Joaflora
+
+
+public class hola{
+	public static void main(String[] args){
+		System.out.println("Hello World!");
+	}
+}
